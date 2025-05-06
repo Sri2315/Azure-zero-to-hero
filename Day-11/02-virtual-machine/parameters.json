@@ -1,0 +1,16 @@
+{
+    "parameters": {
+      "location": {
+        "value": "eastus"
+      },
+      "vmSize": {
+        "value": "Standard_B1s"
+      },
+      "adminUsername": {
+        "value": "azureuser"
+      },
+      "adminPublicKey": {
+        "value": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAQ42iSjwZqJFCzu0mb2jMEZS74nRI0z3FvcDOEY dell@test"
+      }
+    }
+  }
